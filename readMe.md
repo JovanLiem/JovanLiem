@@ -7,6 +7,7 @@ I'm a student at **Bina Nusantara University**, majoring in **Computer Science**
 <h1>⚙️ Programming Languages / Tools 💻</h1>
 
 <p align="center">
+
   🌐 **Frontend & Web Development**  
   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) 
