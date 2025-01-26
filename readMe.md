@@ -11,6 +11,8 @@ Undergraduate **Computer Science Student** at **Bina Nusantara University**🎓.
 
 <h1>⚙️ Programming Languages / Tools 💻</h1>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
+
 <p align="center">
 
   🌐 **Frontend & Web Development**  
@@ -46,6 +48,7 @@ Undergraduate **Computer Science Student** at **Bina Nusantara University**🎓.
 ![JovanLiem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovanLiem&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 ## 🌟 Explore More!
 [![Visit My Portfolio](https://img.shields.io/badge/Explore-My%20Portfolio-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://jovan-amarta-liem.vercel.app/) 
