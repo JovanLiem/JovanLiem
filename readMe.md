@@ -11,7 +11,7 @@ Undergraduate **Computer Science Student** at **Bina Nusantara University**🎓.
 
 <h1>⚙️ Programming Languages / Tools 💻</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="700" height="600">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="800" height="500">
 
 <p align="center">
 
