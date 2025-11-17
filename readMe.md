@@ -52,4 +52,4 @@ Undergraduate **Computer Science Student** at **Bina Nusantara University**🎓.
 ## 🌟 Explore More!
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
 
-[![Visit My Portfolio](https://img.shields.io/badge/Explore-My%20Portfolio-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://jovan-amarta-liem.vercel.app/) 
+[![Visit My Portfolio](https://img.shields.io/badge/Explore-My%20Portfolio-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://jovan-liem.my.id/) 
