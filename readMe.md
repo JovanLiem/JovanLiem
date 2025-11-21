@@ -45,7 +45,7 @@ Undergraduate **Computer Science Student** at **Bina Nusantara University**🎓.
 
 ---
 
-![JovanLiem's Top Languages](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+![JovanLiem's Top Languages](https://streak-stats.demolab.com/?user=JovanLiem&theme=tokyonight)
 
 ---
 
