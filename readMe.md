@@ -45,7 +45,7 @@ Undergraduate **Computer Science Student** at **Bina Nusantara University**🎓.
 
 ---
 
-![JovanLiem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JovanLiem&theme=radical&show_icons=true&hide_border=true&layout=compact&commits_year=2025)
+![JovanLiem's Top Languages](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
