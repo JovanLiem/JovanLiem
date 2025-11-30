@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jovan Amarta Liem</h1>
 <h3 align="center">Data Scientist | Back End Developer</h3>
 
-Undergraduate **Computer Science Student** at **Bina Nusantara University**🎓.  
+Back-end, Data Engineer, and a final-year Computer Science student at Bina Nusantara University🎓.  
 
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
